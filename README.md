@@ -1,2 +1,3 @@
 # Hello-World
 My first repository slash project
+Teaching my self how to use git hub and stuff....
