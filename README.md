@@ -1,3 +1,6 @@
 # Hello-World
 My first repository slash project
+
+Teaching my self how to use git hub and stuff....
 Now that I have done stuff in eclipse using e-git, lets see what is it that I can do more...
+
