@@ -1,2 +1,3 @@
 # Hello-World
 My first repository slash project
+Now that I have done stuff in eclipse using e-git, lets see what is it that I can do more...
